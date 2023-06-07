@@ -12,8 +12,8 @@
 
 <p align="center">
   <br/>
-    <a href="https://github.com/gunaseelan25"><img alt="guna Github Stats" src="https://github-readme-stats.vercel.app/api?username=gunaseelan25&theme=graywhite&show_icons=true" /></a>
-  <a href="https://github.com/gunaseelan25"><img alt="guna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunaseelan25&langs_count=8&count_private=true&layout=compact&theme=graywhite&show_icons=true" /></a>
+    <a href="https://github.com/gunaseelan25"><img alt="guna Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gunaseelan25&theme=graywhite&show_icons=true" /></a>
+  <a href="https://github.com/gunaseelan25"><img alt="guna Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gunaseelan25&langs_count=8&count_private=true&layout=compact&theme=graywhite&show_icons=true" /></a>
   <br/>
 </p>
 
