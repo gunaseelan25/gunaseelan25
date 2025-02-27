@@ -3,39 +3,36 @@
 
 <h3>Things I code with</h3>
 
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-5FA04E?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
-  <img alt="Aptos" src="https://img.shields.io/badge/-Aptos-000000?style=flat-square&logoColor=white" />
-  <img alt="Move" src="https://img.shields.io/badge/-Move-000000?style=flat-square&logoColor=white" />
-  <img alt="Sui" src="https://img.shields.io/badge/-Sui-4DA2FF?style=flat-square&logo=sui&logoColor=white" />
-  <img alt="Solana" src="https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="pnpm" src="https://img.shields.io/badge/-PNPM-F69220?style=flat-square&logo=pnpm&logoColor=white" />
-  <img alt="yarn" src="https://img.shields.io/badge/-yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Mui" src="https://img.shields.io/badge/-mui-007FFF?style=flat-square&logo=mui&logoColor=white" />
-  <img alt="vite" src="https://img.shields.io/badge/-vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img alt="vercel" src="https://img.shields.io/badge/-vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="cloudfare" src="https://img.shields.io/badge/-cloudfare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img alt="Amazon_AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img alt="eslint" src="https://img.shields.io/badge/-eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
-  <img alt="pritter" src="https://img.shields.io/badge/-prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="swagger" src="https://img.shields.io/badge/-swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" />
-  <img alt="jest" src="https://img.shields.io/badge/-jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="k6" src="https://img.shields.io/badge/-k6-7D64FF?style=flat-square&logo=k6&logoColor=white" />
-
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Aptos](https://img.shields.io/badge/-Aptos-000000?style=for-the-badge&logoColor=white)
+![Move](https://img.shields.io/badge/-Move-000000?style=for-the-badge&logoColor=white)
+![Sui](https://img.shields.io/badge/-Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
+![Solana](https://img.shields.io/badge/-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/-PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![k6](https://img.shields.io/badge/-k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
 <p align="center">
   <br/>
