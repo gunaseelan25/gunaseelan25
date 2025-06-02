@@ -42,7 +42,7 @@
 </p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/gunaseelan25" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> <a href="https://x.com/Gunaseelan_25" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=x&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gunaseelan25" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@gunaon2509" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white" /></a>
+<p><a href="https://github.com/gunaseelan25" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> <a href="https://x.com/0xgunaseelan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=x&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gunaseelan25" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@gunaon2509" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white" /></a>
 </p>
 
 <img align ="left" src="https://komarev.com/ghpvc/?username=gunaseelan25&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
