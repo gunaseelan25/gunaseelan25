@@ -8,6 +8,11 @@
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=for-the-badge&logo=openai&logoColor=white)
+![Curser](https://img.shields.io/badge/-Curser-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Cli](https://img.shields.io/badge/-CLI-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Aptos](https://img.shields.io/badge/-Aptos-000000?style=for-the-badge&logoColor=white)
 ![Move](https://img.shields.io/badge/-Move-000000?style=for-the-badge&logoColor=white)
@@ -34,14 +39,11 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![k6](https://img.shields.io/badge/-k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
-<p align="center">
-  <br/>
-    <a href="https://github.com/gunaseelan25"><img alt="guna Github Stats" src="https://github-readme-stats.vercel.app/api?username=gunaseelan25&theme=tokyonight&show_icons=true&count_private=false" /></a>
-  <a href="https://github.com/gunaseelan25"><img alt="guna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunaseelan25&layout=compact&langs_count=8&theme=tokyonight&show_icons=true&count_private=true" /></a>
-  <br/>
-</p>
+## GitHub Activity
 
-<h3>Where to find me</h3>
+![GitHub Contribution Graph](https://ghchart.rshah.org/gunaseelan25)
+
+<h3>Connect</h3>
 <p><a href="https://github.com/gunaseelan25" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> <a href="https://x.com/0xgunaseelan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=x&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gunaseelan25" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@gunaon2509" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white" /></a>
 </p>
 
